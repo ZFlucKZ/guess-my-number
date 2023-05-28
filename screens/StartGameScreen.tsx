@@ -59,7 +59,6 @@ const StartGameScreen = ({ onPickNumber }: Props) => {
             <PrimaryButton onPress={confirmInputHandler}>Confirm</PrimaryButton>
           </View>
         </View>
-        T
       </Card>
     </View>
   );
